@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. What is your name? My name is Alyssa Peterson.
+2. Why are you interested in Data Science? I am interested in Data Science because I enjoy seeing what can be done with big data and data analysis. I think it's important for people to know how to learn from data. 
+3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how? I started programming about two years ago. I have taken courses in java, hadoop, hive, pig, mongodb, neo4j, SQL and others. I will be starting a new job in about 4 months where I will be using programming as an analytics consultant. I will be working on various projects/programming for various clients. 
+4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how? I have taken an introduction to statistics class, econometrics class, and a foundations of data analysis using statistis class. I do not currently use statistics on the job, but will at the very least be using intro statistics in my new job. 
+5.  Do you have other experience with R or Python? I have no experience with Python and minimal data analysis experience using R. I am excited to learn!
+6.  What do you hope to learn in this class? I hope to become more comfortable using GitHub, Python, and R! 
+7.  Is there anything else you would like to share with us? I am excited to learn more in this course and to interact with my fellow classmates and professors! 
